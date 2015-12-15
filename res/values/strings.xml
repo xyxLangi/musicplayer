@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">P音乐</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">听音乐</string>
+    <string name="LyricShow">歌词无</string>
+    <string name="music_name">OOO</string>
+    <string name="music_artist">XXX</string>
+    <string name="music_loop">music_loop</string>
+    <string name="music_random">music_random</string>
+    <string name="music_start_time">00:00</string>
+    <string name="music_end_time">00:00</string>
+    <string name="music_lasted">music_lasted</string>
+    <string name="music_rewind">music_rewind</string>
+    <string name="music_play">music_play</string>
+    <string name="music_foward">music_forward</string>
+    <string name="music_next">music_next</string>
+    <string name="music_item_image">music_item_image</string>
+	<string name="music_item_time">03:42</string>
+    
+
+</resources>
